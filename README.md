@@ -67,7 +67,7 @@ If you have a new problem, solution, correction, or improvement:
 
 ## ⭐ Support
 
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
+If you find this project useful, consider giving the repository a ⭐(star) on GitHub.
 
 ---
 
