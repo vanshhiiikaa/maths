@@ -1,74 +1,119 @@
-# Maths guide
+# 🧮 Maths Guide
 
-A mathematics-focused project containing solutions, concepts, and practice problems to improve mathematical and problem-solving skills.
+A beginner-friendly collection of mathematics concepts, examples, problems, and Python programs designed to make learning maths easier through practice and problem-solving.
 
-## 📌 About
+## ✨ About
 
-**Mathsgivde** is a collection of mathematics problems and their solutions. The project is intended for students and learners who want to practice mathematical concepts and strengthen their problem-solving abilities.
+This repository contains different mathematical concepts and Python implementations covering topics such as **statistics, probability, vectors, variation, and basic mathematical operations**.
 
-## 📚 Topics Covered
+It is useful for students and learners who want to:
 
-* Basic Mathematics
-* Arithmetic
-* Algebra
-* Geometry
-* Trigonometry
-* Number Theory
+* 📚 Practice mathematical concepts
+* 💻 Implement maths concepts using Python
+* 🧠 Improve logical and problem-solving skills
+* 📊 Understand statistics and probability
+* 📝 Keep mathematical programs and solutions organized
+
+## 📚 Topics
+
+The repository currently includes programs related to:
+
+* Mean
+* Median
+* Mode
+* Standard Deviation
 * Probability
+* Probability Simulations
+* Histograms
+* Bar Graphs
+* Variation
+* Vectors
 * Statistics
 * Mathematical Problem Solving
 
-## 🎯 Goals
-
-* Practice mathematics regularly
-* Understand concepts through problem solving
-* Improve logical and analytical thinking
-* Maintain organized solutions for future reference
+More topics will be added as the project grows.
 
 ## 📁 Project Structure
 
 ```text
-Mathsgivde/
+maths/
 ├── README.md
-├── ...
+├── mean.py
+├── meadian.py
+├── mode.py
+├── std_deri.py
+├── probability.py
+├── probability2.py
+├── simulation.py
+├── histo.py
+├── bar.py
+├── variation.py
+├── vector/
 └── ...
 ```
 
-The structure may grow as new topics and solutions are added.
-
 ## 🚀 Getting Started
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vanshhiiikaa/mathsgivde.git
+git clone https://github.com/vanshhiiikaa/maths.git
 ```
 
-Move into the project directory:
+### 2. Open the project
 
 ```bash
-cd mathsgivde
+cd maths
 ```
 
-Then open the project in your preferred editor.
+### 3. Run a Python program
+
+For example:
+
+```bash
+python mean.py
+```
+
+You can run any of the `.py` files to explore the corresponding mathematical concept.
+
+## 🎯 Goals
+
+The main goals of this project are to:
+
+* Build a strong mathematical foundation
+* Learn by writing practical Python programs
+* Practice statistics and probability
+* Improve analytical thinking
+* Experiment with mathematical concepts through code
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions and suggestions are welcome!
 
-If you have a new problem, solution, correction, or improvement:
+If you find a mistake or want to improve the project:
 
-1. Fork the repository.
-2. Create a new branch.
-3. Add your changes.
-4. Commit your changes.
-5. Push the branch.
-6. Create a Pull Request.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes
+5. Push your branch
+6. Open a Pull Request
+
+## 🌱 Future Plans
+
+Some possible improvements for this project include:
+
+* Adding more mathematical topics
+* Adding explanations for each program
+* Adding example inputs and outputs
+* Improving code organization
+* Adding visualizations
+* Adding practice problems and solutions
 
 ## ⭐ Support
 
-If you find this project useful, consider giving the repository a ⭐(star) on GitHub.
+If you find this project useful, consider giving it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ for learning mathematics.**
+**Made with ❤️ and Python for learning mathematics.**
