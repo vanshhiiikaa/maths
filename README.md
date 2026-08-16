@@ -114,6 +114,6 @@ Some possible improvements for this project include:
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
----
+
 
 **Made with ❤️ and Python for learning mathematics.**
